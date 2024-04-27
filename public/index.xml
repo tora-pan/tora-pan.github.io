@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech with Tora</title>
+    <link>https://www.travispandos.com/</link>
+    <description>Recent content on Tech with Tora</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Apr 2024 08:25:57 -0700</lastBuildDate>
+    <atom:link href="https://www.travispandos.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://www.travispandos.com/posts/my-first-post/</link>
+      <pubDate>Sat, 27 Apr 2024 08:25:57 -0700</pubDate>
+      <guid>https://www.travispandos.com/posts/my-first-post/</guid>
+      <description>Welcome to post #1 using Hugo. Not sure if this is going to last&#xA;but I figured I&amp;rsquo;d give it a shot&#xA;Why not right? </description>
+    </item>
+  </channel>
+</rss>
